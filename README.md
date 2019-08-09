@@ -7,7 +7,7 @@ Original gitignore: https://gist.github.com/indyfromoz/4109296
 ## Progress
 
 - [x] Section 1 - Get Started
-- [ ] Section 2 - Add a Model
+- [x] Section 2 - Add a Model
 - [ ] Section 3 - Scaffolding
 - [ ] Section 4 - Work With a Database
 - [ ] Section 5 - Update the Pages
